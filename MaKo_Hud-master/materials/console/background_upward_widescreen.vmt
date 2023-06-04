@@ -1,0 +1,24 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "console/background_upward"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+	"$no_fullbright" "1"
+	"$nolod" "1"
+	"%keywords" "tf"
+
+
+"startframe" "0"
+"endframe" "50"
+
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "10" 
+
+}
+} 
